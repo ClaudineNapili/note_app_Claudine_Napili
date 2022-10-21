@@ -1,0 +1,11 @@
+{
+  "name": "note_app_claudine_napili",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudine Napili",
+  "license": "ISC"
+}
