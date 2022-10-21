@@ -6,6 +6,7 @@ const del = require('./del')
 const update = require('./update')
 
 const data = process.argv
+
 //write(data)
 
 var note = {}
@@ -37,6 +38,7 @@ if (data[2] === 'delete') {
 
     console.log(read());
 }
+
 
 if (cmd[2] == 'update') {
     let note = {
